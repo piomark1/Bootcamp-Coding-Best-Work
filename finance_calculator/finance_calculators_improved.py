@@ -19,7 +19,7 @@
 #
 # 2. How the user capitalises their selection should not affect how the program
 #   proceeds. i.e. 'Bond', 'bond', 'BOND' or 'investment', 'Investment',
-#   'INVESTMENT', etc., should all be recognised as valid entries. If the user
+#   'INVESTMENT', etc., should all be recognised as valid entries. If the use
 #   doesn't type in a valid input, show an appropriate error message.   
 #----------------------------------------------------------------------------------------------
 # 3. If the user selects 'investment', do the following:
