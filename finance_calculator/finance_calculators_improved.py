@@ -17,7 +17,7 @@
 #  |__________________________________________________________________________________|
 #
 #
-# 2. How the user capitalises their selection should not affect how the program
+# 2. How the user capitalises their selection should not affect how the progra
 #   proceeds. i.e. 'Bond', 'bond', 'BOND' or 'investment', 'Investment',
 #   'INVESTMENT', etc., should all be recognised as valid entries. If the user
 #   doesn't type in a valid input, show an appropriate error message.   
